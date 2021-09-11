@@ -12,3 +12,7 @@ sum(a, b);
 const sub = () => {
   return a - b;
 };
+
+const Nhan = () => {
+  return a * b;
+};
