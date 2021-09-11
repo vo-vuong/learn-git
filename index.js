@@ -20,3 +20,5 @@ const Nhan = () => {
 const Chia = () => {
   return a / b;
 };
+
+console.log("huhu");
