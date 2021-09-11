@@ -8,3 +8,7 @@ const sum = function (a, b) {
 };
 
 sum(a, b);
+
+const sub = () => {
+  return a - b;
+};
