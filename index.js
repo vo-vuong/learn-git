@@ -16,3 +16,7 @@ const sub = () => {
 const Nhan = () => {
   return a * b;
 };
+
+const Chia = () => {
+  return a / b;
+};
