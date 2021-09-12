@@ -24,5 +24,6 @@ const Chia = () => {
 const hihi = (message) => {
   console.log(message);
 };
+console.log("hihuhhu");
 
 console.log("huhu");
