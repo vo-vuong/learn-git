@@ -21,6 +21,6 @@ const Chia = () => {
   return a / b;
 };
 
-console.log("hi");
+console.log("hihuhhu");
 
 console.log("huhu");
